@@ -1,0 +1,13 @@
+name = "TourOfJuliaExamTemplate"
+uuid = "2f7266e7-5975-4b5c-9e5a-888bfc4ae3cd"
+authors = ["Stefano Campanella <15182642+stefanocampanella@users.noreply.github.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
